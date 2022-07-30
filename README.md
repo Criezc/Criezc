@@ -25,7 +25,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Criez</h1>
-<h3 align="center">I'm a hardworking and motivated student that passionate in exploring the world of tech industry. Experienced in Frontend Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Computer Science, Next.js, JavaScript, JSON, and React.js. Strong engineering professional with a Bachelor of Technology - BTech focused in Computer Science from BINUS University. I'm a hardworking and motivated student that passionate in exploring the world of tech industry. Experienced in Frontend Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Computer Science, Next.js, JavaScript, JSON, and React.js. Strong engineering professional with a Bachelor of Technology - BTech focused in Computer Science from BINUS University.</h3>
+<h3 align="center">I'm a hardworking and motivated student that passionate in exploring the world of tech industry. Experienced in Frontend Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Computer Science, Next.js, JavaScript, JSON, and React.js.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=criezc" alt="criezc" /></a> </p>
 
