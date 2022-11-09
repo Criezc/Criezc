@@ -50,9 +50,9 @@ and determining customer satisfaction.</h3>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="skillsBadge"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Criezc&show_icons=true&locale=en&layout=compact" alt="criezc" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Criezc&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=criezc&" alt="criezc" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Criezc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
  criezc/cirezc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
