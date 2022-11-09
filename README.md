@@ -19,7 +19,7 @@
 <h3 align="center">Front End Engineer with over two years of experience building and maintaining responsive 
 websites. Proficient in HTML, CSS, JavaScript,Plus modern frameworks. Passionate about 
 usability and adept at contributing to highly collaborative work environment, finding solutions 
-and determining customer satisfaction.
+and determining customer satisfaction.</h3>
 
 - 🔭 I’m currently working on **Web3 Apps**
 
