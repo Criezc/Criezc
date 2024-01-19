@@ -16,10 +16,9 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Criez</h1>
-<h3 align="center">Front End Engineer with over two years of experience building and maintaining responsive 
-websites. Proficient in HTML, CSS, JavaScript,Plus modern frameworks. Passionate about 
-usability and adept at contributing to highly collaborative work environment, finding solutions 
-and determining customer satisfaction.</h3>
+<h3 align="center">
+I am a committed and passionate student who has focused on becoming an expert in Front-End Engineering. I have more than three years of experience in this field. My journey in the technology world has been an exciting adventure. During this journey, I have refined my skills and developed a strong love for designing digital experiences that are smooth and captivating. Please don't hesitate to contact me if you'd like to get in touch!
+</h3>
 
 - 🔭 I’m currently working on **Web3 Apps**
 
