@@ -50,7 +50,7 @@ I am a committed and passionate student who has focused on becoming an expert in
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Criezc&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Criezc&size_weight=0.5&count_weight=0.5&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Criezc&layout=donut&weight=0.5&count_weight=0.5&theme=vision-friendly-dark&langs_count=10)
 
 <!---
  criezc/cirezc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
