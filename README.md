@@ -52,6 +52,8 @@ I am a committed and passionate student who has focused on becoming an expert in
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Criezc&layout=donut&weight=0.5&count_weight=0.5&theme=vision-friendly-dark&langs_count=10)
 
+<a href="https://app.daily.dev/criezc"><img src="https://api.daily.dev/devcards/73a23e1a1e01495c8f55c7dac51d31e1.png?r=7bq" width="400" alt="Frisco Lie's Dev Card"/></a>
+
 <!---
  criezc/cirezc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
