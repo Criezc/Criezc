@@ -16,8 +16,8 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Criez</h1>
-<h3 align="center">
-I am a committed and passionate student who has focused on becoming an expert in Front-End Engineering. I have more than three years of experience in this field. My journey in the technology world has been an exciting adventure. During this journey, I have refined my skills and developed a strong love for designing digital experiences that are smooth and captivating. Please don't hesitate to contact me if you'd like to get in touch!
+<h3 align="justify">
+I am a seasoned Front-End Engineer with a robust background in developing sophisticated digital interfaces. With over three years of industry experience, I specialize in creating seamless and intuitive user experiences that drive engagement and user satisfaction. My technical proficiency and a meticulous approach to design have been instrumental in my professional journey, allowing me to deliver high-quality digital solutions consistently. I am eager to connect with industry peers and explore collaborative opportunities. Please do not hesitate to contact me.
 </h3>
 
 - 🔭 I’m currently working on **Stealth Startup** as Software Engineer
