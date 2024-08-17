@@ -21,9 +21,6 @@ I am a seasoned Front-End Engineer with a robust background in developing sophis
 </h3>
 
 - 🔭 I’m currently working on **Stealth Startup** as Software Engineer
-
-- 🌱 I’m currently majoring **in Computer Science, but willing to learn more about Fullstack with Techstacks MERN.**
-
 - 📫 How to reach me **You could contact me on email at criezc@yandex.com**
 
 <h3 align="left">Connect with me:</h3>
