@@ -21,7 +21,7 @@ I am a seasoned Front-End Engineer with a robust background in developing sophis
 </h3>
 
 - 🔭 I’m currently working on **Stealth Startup** as Software Engineer
-- 📫 How to reach me **You could contact me on email at criezc@yandex.com**
+- 📫 How to reach me **You could contact me on email at criezc.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
